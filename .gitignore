@@ -1,0 +1,15 @@
+README.html
+LAYOUT.html
+FAQ.html
+DESIGN.html
+CONTRIBUTING.html
+CONDUCT.html
+*~
+*.pyc
+_site
+.DS_Store
+fig/Thumbs.db
+03_code/private-keys.R
+data-carpentry-kcode.Rproj
+.Rhistory
+.Rproj.user/
